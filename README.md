@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+# Powerful open source local analytical engine with aws and azure support for highly performant analysis
 
 ---
 
